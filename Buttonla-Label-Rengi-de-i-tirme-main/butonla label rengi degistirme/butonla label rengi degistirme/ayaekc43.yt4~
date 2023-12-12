@@ -1,0 +1,57 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace butonla_label_rengi_degistirme
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnKirmizi_Click(object sender, EventArgs e)
+        {
+            lblAd.ForeColor = Color.Red;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblAd_Click(object sender, EventArgs e)
+        {
+            btnKirmizi.BackColor = Color.Red;
+            btnMavi.BackColor = Color.Blue;
+            btnSari.BackColor = Color.Yellow;
+            btnTuruncu.BackColor = Color.Orange;
+
+        }
+
+        private void btnMavi_Click(object sender, EventArgs e)
+        {
+            lblAd.ForeColor = Color.Blue;
+
+        }
+
+        private void btnSari_Click(object sender, EventArgs e)
+        {
+            lblAd.ForeColor = Color.Yellow;
+
+        }
+
+        private void btnTuruncu_Click(object sender, EventArgs e)
+        {
+            lblAd.ForeColor = Color.Orange;
+
+        }
+    }
+}

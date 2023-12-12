@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\bin\Debug\butonla label rengi degistirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\bin\Debug\butonla label rengi degistirme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\bin\Debug\butonla label rengi degistirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla_label_rengi_degistirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla_label_rengi_degistirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.pdb
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla_label_rengi_degistirme.Form1.resources
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla_label_rengi_degistirme.Properties.Resources.resources
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.exe
+C:\Users\User\Desktop\Buttonla-Label-Rengi-de-i-tirme-main\butonla label rengi degistirme\butonla label rengi degistirme\obj\Debug\butonla label rengi degistirme.pdb

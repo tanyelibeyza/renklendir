@@ -1,0 +1,117 @@
+﻿namespace butonla_label_rengi_degistirme
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblAd = new System.Windows.Forms.Label();
+            this.btnKirmizi = new System.Windows.Forms.Button();
+            this.btnMavi = new System.Windows.Forms.Button();
+            this.btnSari = new System.Windows.Forms.Button();
+            this.btnTuruncu = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // lblAd
+            // 
+            this.lblAd.AutoSize = true;
+            this.lblAd.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblAd.Location = new System.Drawing.Point(75, 47);
+            this.lblAd.Name = "lblAd";
+            this.lblAd.Size = new System.Drawing.Size(155, 31);
+            this.lblAd.TabIndex = 0;
+            this.lblAd.Text = "Dilan Kaya";
+            this.lblAd.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblAd.Click += new System.EventHandler(this.lblAd_Click);
+            // 
+            // btnKirmizi
+            // 
+            this.btnKirmizi.BackColor = System.Drawing.Color.Red;
+            this.btnKirmizi.Location = new System.Drawing.Point(38, 113);
+            this.btnKirmizi.Name = "btnKirmizi";
+            this.btnKirmizi.Size = new System.Drawing.Size(63, 46);
+            this.btnKirmizi.TabIndex = 1;
+            this.btnKirmizi.UseVisualStyleBackColor = false;
+            this.btnKirmizi.Click += new System.EventHandler(this.btnKirmizi_Click);
+            // 
+            // btnMavi
+            // 
+            this.btnMavi.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.btnMavi.Location = new System.Drawing.Point(116, 113);
+            this.btnMavi.Name = "btnMavi";
+            this.btnMavi.Size = new System.Drawing.Size(63, 46);
+            this.btnMavi.TabIndex = 2;
+            this.btnMavi.UseVisualStyleBackColor = false;
+            this.btnMavi.Click += new System.EventHandler(this.btnMavi_Click);
+            // 
+            // btnSari
+            // 
+            this.btnSari.BackColor = System.Drawing.Color.Gold;
+            this.btnSari.Location = new System.Drawing.Point(198, 113);
+            this.btnSari.Name = "btnSari";
+            this.btnSari.Size = new System.Drawing.Size(63, 46);
+            this.btnSari.TabIndex = 3;
+            this.btnSari.UseVisualStyleBackColor = false;
+            this.btnSari.Click += new System.EventHandler(this.btnSari_Click);
+            // 
+            // btnTuruncu
+            // 
+            this.btnTuruncu.BackColor = System.Drawing.Color.Orange;
+            this.btnTuruncu.Location = new System.Drawing.Point(277, 113);
+            this.btnTuruncu.Name = "btnTuruncu";
+            this.btnTuruncu.Size = new System.Drawing.Size(63, 46);
+            this.btnTuruncu.TabIndex = 4;
+            this.btnTuruncu.UseVisualStyleBackColor = false;
+            this.btnTuruncu.Click += new System.EventHandler(this.btnTuruncu_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(375, 235);
+            this.Controls.Add(this.btnTuruncu);
+            this.Controls.Add(this.btnSari);
+            this.Controls.Add(this.btnMavi);
+            this.Controls.Add(this.btnKirmizi);
+            this.Controls.Add(this.lblAd);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblAd;
+        private System.Windows.Forms.Button btnKirmizi;
+        private System.Windows.Forms.Button btnMavi;
+        private System.Windows.Forms.Button btnSari;
+        private System.Windows.Forms.Button btnTuruncu;
+    }
+}
+
